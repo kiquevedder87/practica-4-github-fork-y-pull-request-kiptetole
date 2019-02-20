@@ -1,6 +1,7 @@
 package v.uno;
 
 /* Ejemplo Clase Calendar y GregorianCalendar aprenderaprogramar.com */
+/* Menuda chapuza calendario*/
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
